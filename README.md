@@ -1,4 +1,4 @@
-- Hi, I’m @andrebestrada, I am an Industrial and Systems Engineer 
+- Hi, I’m @andrebestrada, I am an Industrial and Systems Engineer from `Tec de Monterrey`
 - I’m interested in achieving defined goals as a team through in advanced planning and correct execution. I 
 am interested in developing new skills in data analysis and information systems that are capable of 
 translating an understanding of what is actually happening and giving us a viable and suitable solution.
@@ -9,4 +9,4 @@ Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine
 - I’m looking to collaborate on new and exiting challenges that help us understand what is actually happening in our process.
 
 - 📫 Email: andrebestrada@gmail.com
-- Linkedin [Andrés Estrada](https://www.linkedin.com/in/andrés-estrada-694625132).
+- Linked in [Andrés Estrada](https://www.linkedin.com/in/andrés-estrada-694625132).
