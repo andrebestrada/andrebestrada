@@ -9,3 +9,4 @@ Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine
 - I’m looking to collaborate on new and exiting challenges that help us understand what is actually happening in our process.
 
 - 📫 Email: andrebestrada@gmail.com
+- Linkedin [Andrés Estrada](https://www.linkedin.com/in/andrés-estrada-694625132).
