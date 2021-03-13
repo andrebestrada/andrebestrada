@@ -8,4 +8,4 @@ performance
 Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning. 
 - I’m looking to collaborate on new and exiting challenges that help us understand what is actually happening in our process.
 
--📫 Email: andrebestrada@gmail.com
+- 📫 Email: andrebestrada@gmail.com
