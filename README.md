@@ -5,7 +5,7 @@ Looking forward to work with multidisciplinary teams and develop new skills to i
 performance
 - I’m currently doing an intensive program focused on gaining technical programming skills in 
 Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning. 
-- I’m looking to collaborate on new and exiting challenges that help us understand what is actually happening in our process.
+
 
 - 📫 Email: andrebestrada@gmail.com
 - Linked in [Andrés Estrada](https://www.linkedin.com/in/andrés-estrada-694625132).
