@@ -8,4 +8,4 @@ Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine
 
 
 - 📫 Email: andrebestrada@gmail.com
-- Linked in [Andrés Estrada](https://www.linkedin.com/in/andrés-estrada-694625132).
+- Linkedin [Andrés Estrada](https://www.linkedin.com/in/andrés-estrada-694625132).
